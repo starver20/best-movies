@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap");
+
+body {
+  font-family: "Montserrat", sans-serif;
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+.header {
+  padding-top: 20px;
+  font-size: 3vw;
+  text-align: center;
+  margin-top: 0px;
+}
+
+/* .img {
+  margin: 0px;
+  padding: 0px;
+  background-image: url("/src/biography/a1.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+} */
+
+.blur {
+  backdrop-filter: blur(30px);
+  padding: 0px 19vw;
+}
+
+.btns {
+  margin: 2vh 4vw 2vh 4vw;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.btn {
+  font-size: 2vw;
+  background-color: transparent;
+  border: none;
+}
+.btn:hover {
+  color: #6ac045;
+}
+
+.mov-grid {
+  /* padding-top: 4vh; */
+  padding-bottom: 4vh;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.mov-tile {
+  margin: 2vh 1vw;
+  display: inline-block;
+}
+
+.mov-img {
+  border: 5px solid white;
+  border-radius: 5px;
+  width: 200px;
+  /* margin-left: 2vw; */
+}
+
+.mov-img:hover {
+  border: 5px solid #6ac045;
+}
+
+@media (max-width: 800px) {
+  .mov-img {
+    width: 150px;
+  }
+}
+
+@media (max-width: 580px) {
+  .mov-img {
+    width: 100px;
+  }
+}
+
+@media (max-width: 370px) {
+  .mov-img {
+    width: 70px;
+  }
+}
+h2 {
+  color: white;
+}
+h3 {
+  color: white;
+  text-align: center;
+  margin-top: 0px;
+}
