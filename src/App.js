@@ -1,22 +1,22 @@
-import "./styles.css";
-import { useState } from "react";
+import './styles.css';
+import { useState } from 'react';
 
-const action = ["a1.jpg", "a2.jpg", "a3.jpg", "a4.jpg"];
+const action = ['a1.jpg', 'a2.jpg', 'a3.jpg', 'a4.jpg'];
 
 export default function App() {
-  const [genre, setGenre] = useState("action");
+  const [genre, setGenre] = useState('action');
 
   return (
     <div className="App">
       <div
         className="img"
         style={{
-          margin: "0px",
-          padding: "0px",
+          margin: '0px',
+          padding: '0px',
           backgroundImage: `url(/src/${genre}/a1.jpg)`,
-          backgroundRepeat: "no-repeat",
-          backgroundSize: "70% 100%",
-          backgroundPosition: "center"
+          backgroundRepeat: 'no-repeat',
+          backgroundSize: '100% 100%',
+          backgroundPosition: 'center',
         }}
       >
         <div className="blur">
@@ -28,40 +28,40 @@ export default function App() {
             <button
               className="btn"
               style={{
-                color: genre === "action" ? "green" : "black",
-                fontSize: genre === "action" ? "3vw" : "2vw"
+                color: genre === 'action' ? 'green' : 'black',
+                fontSize: genre === 'action' ? '3vw' : '2vw',
               }}
-              onClick={() => setGenre("action")}
+              onClick={() => setGenre('action')}
             >
               Action
             </button>
             <button
               className="btn"
               style={{
-                color: genre === "biography" ? "green" : "black",
-                fontSize: genre === "biography" ? "3vw" : "2vw"
+                color: genre === 'biography' ? 'green' : 'black',
+                fontSize: genre === 'biography' ? '3vw' : '2vw',
               }}
-              onClick={() => setGenre("biography")}
+              onClick={() => setGenre('biography')}
             >
               Biograpgy
             </button>
             <button
               className="btn"
               style={{
-                color: genre === "sifi" ? "green" : "black",
-                fontSize: genre === "sifi" ? "3vw" : "2vw"
+                color: genre === 'sifi' ? 'green' : 'black',
+                fontSize: genre === 'sifi' ? '3vw' : '2vw',
               }}
-              onClick={() => setGenre("sifi")}
+              onClick={() => setGenre('sifi')}
             >
               Sci-Fi
             </button>
             <button
               className="btn"
               style={{
-                color: genre === "animated" ? "green" : "black",
-                fontSize: genre === "animated" ? "3vw" : "2vw"
+                color: genre === 'animated' ? 'green' : 'black',
+                fontSize: genre === 'animated' ? '3vw' : '2vw',
               }}
-              onClick={() => setGenre("animated")}
+              onClick={() => setGenre('animated')}
             >
               Animated
             </button>
