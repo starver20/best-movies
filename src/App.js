@@ -43,7 +43,7 @@ export default function App() {
               }}
               onClick={() => setGenre('biography')}
             >
-              Biograpgy
+              Biography
             </button>
             <button
               className="btn"
