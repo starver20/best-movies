@@ -25,21 +25,21 @@ const description = {
   },
   biography: {
     'a1.jpg':
-      'Hugh Glass, a legendary frontiersman, is severely injured in a bear attack and is abandoned by his hunting crew. He uses his skills to survive and take revenge on his companion who betrayed him.',
+      'Hugh Glass, is severely injured in a bear attack and is abandoned by his hunting crew. He uses his skills to survive and take revenge on his companion who betrayed him.',
     'a2.jpg':
       'John Nash, a brilliant but asocial mathematical genius, finds his life changing for the worse after he accepts an assignment from William Parcher.',
     'a3.jpg':
       "Milkha Singh, an Indian athlete, overcomes many agonising obstacles in order to become a world champion, Olympian and one of India's most iconic athletes.",
     'a4.jpg':
-      'During the WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive.',
+      'During the WWII, Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive.',
   },
   sifi: {
     'a1.jpg':
-      'When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.',
+      'When Earth becomes uninhabitable, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.',
     'a2.jpg':
-      'Two friends and fellow magicians become bitter enemies after a sudden tragedy. As they devote themselves to this rivalry, they make sacrifices that bring them fame but with terrible consequences.',
+      'Two friends and magicians become bitter enemies after a sudden tragedy. As they devote themselves rivalry, they make sacrifices that bring them fame but with terrible consequences.',
     'a3.jpg':
-      "Cobb steals information from his targets by entering their dreams. Saito offers to wipe clean Cobb's criminal history as payment for performing an inception on his sick competitor's son.",
+      "Cobb steals information by entering their target's dreams.Saito offers to wipe clean Cobb's criminal history as payment for performing inception on his competitor's son.",
     'a4.jpg':
       "When Air Force Space Command receives a signal from an alien satellite in Earth's orbit, a government conspiracy is uncovered.",
   },
