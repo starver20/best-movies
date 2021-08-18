@@ -4,7 +4,7 @@
 
 <br>
 
-## You can access my portfolio [here](https://movie-recco.netlify.app/)
+## You can access it [here.](https://movie-recco.netlify.app/)
 
 <br>
 
