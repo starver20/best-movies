@@ -110,12 +110,18 @@ body {
 }
 
 @media (max-width: 580px) {
+  .mov-desc {
+    font-size: 0.7rem;
+  }
   .mov-img {
     width: 100px;
   }
 }
 
 @media (max-width: 370px) {
+  .mov-desc {
+    font-size: 0.5rem;
+  }
   .mov-img {
     width: 70px;
   }
