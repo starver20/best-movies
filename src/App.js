@@ -5,43 +5,43 @@ const movies = ['a1.jpg', 'a2.jpg', 'a3.jpg', 'a4.jpg'];
 const description = {
   action: {
     'a1.jpg':
-      'Justice League is a 2017 American superhero film based on the DC Comics superhero team of the same name.',
+      ' 6.1/10 Justice League is a 2017 American superhero film based on the DC Comics superhero team of the same name.',
     'a2.jpg':
-      'The true story of Pfc. Desmond T. Doss (Andrew Garfield), who won the Congressional Medal of Honor despite refusing to bear arms during WWII on religious grounds.',
+      ' 8.1/10 The true story of Pfc. Desmond T. Doss (Andrew Garfield), who won the Congressional Medal of Honor despite refusing to bear arms during WWII on religious grounds.',
     'a3.jpg':
-      "After learning that his father was brutally killed by Bhallaladeva, Mahendra Baahubali raises an army to defeat him and release his mother from the former's captivity.",
+      "8.2/10 After learning that his father was brutally killed by Bhallaladeva, Mahendra Baahubali raises an army to defeat him and release his mother from the former's captivity.",
     'a4.jpg':
-      'Two soldiers in Afghanistan face off against a group of rogue special ops and a cell of heavily armed Taliban.',
+      '4.5/10 Two soldiers in Afghanistan face off against a group of rogue special ops and a cell of heavily armed Taliban.',
   },
   animated: {
     'a1.jpg':
-      "Carl, an old widower, goes off on an adventure in his flying house in search of Paradise Falls, his wife's dream destination.",
+      "8.1/10 Carl, an old widower, goes off on an adventure in his flying house in search of Paradise Falls, his wife's dream destination.",
     'a2.jpg':
-      'A jazz musician, stuck in a mediocre job, finally gets his big break. However, when a wrong step takes him to the Great Before, he tries to help an infant soul in order to return to reality.',
+      '8.2/10 A jazz musician, stuck in a mediocre job, finally gets his big break. However, when a wrong step takes him to the Great Before, he tries to help an infant soul in order to return to reality.',
     'a3.jpg':
-      'When man-eating Titans first appeared 100 years ago, humans found safety behind massive walls that stopped the giants in their tracks.',
+      '9/10 When man-eating Titans first appeared 100 years ago, humans found safety behind massive walls that stopped the giants in their tracks.',
     'a4.jpg':
-      'In Monstropolis, best friends Sulley and Mike are the top scarers working at the Monsters, Inc. However, their lives are hugely disrupted when a human girl enters their world.',
+      '8.1/10 In Monstropolis, best friends Sulley and Mike are the top scarers working at the Monsters, Inc. However, their lives are hugely disrupted when a human girl enters their world.',
   },
   biography: {
     'a1.jpg':
-      'Hugh Glass, is severely injured in a bear attack and is abandoned by his hunting crew. He uses his skills to survive and take revenge on his companion who betrayed him.',
+      '8/10 Hugh Glass, is severely injured in a bear attack and is abandoned by his hunting crew. He uses his skills to survive and take revenge on his companion who betrayed him.',
     'a2.jpg':
-      'John Nash, a brilliant but asocial mathematical genius, finds his life changing for the worse after he accepts an assignment from William Parcher.',
+      '8.2/10 John Nash, a brilliant but asocial mathematical genius, finds his life changing for the worse after he accepts an assignment from William Parcher.',
     'a3.jpg':
-      "Milkha Singh, an Indian athlete, overcomes many agonising obstacles in order to become a world champion, Olympian and one of India's most iconic athletes.",
+      "8.2/10 Milkha Singh, an Indian athlete, overcomes many agonising obstacles in order to become a world champion, Olympian and one of India's most iconic athletes.",
     'a4.jpg':
-      'During the WWII, Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive.',
+      '8.5/10 During the WWII, Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive.',
   },
   sifi: {
     'a1.jpg':
-      'When Earth becomes uninhabitable, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.',
+      '8.6/10 When Earth becomes uninhabitable, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.',
     'a2.jpg':
-      'Two friends and magicians become bitter enemies after a sudden tragedy. As they devote themselves rivalry, they make sacrifices that bring them fame but with terrible consequences.',
+      '8.5/10 Two friends and magicians become bitter enemies after a sudden tragedy. As they devote themselves rivalry, they make sacrifices that bring them fame but with terrible consequences.',
     'a3.jpg':
-      "Cobb steals information by entering their target's dreams.Saito offers to wipe clean Cobb's criminal history as payment for performing inception on his competitor's son.",
+      "8.8/10 Cobb steals information by entering their target's dreams.Saito offers to wipe clean Cobb's criminal history as payment for performing inception on his competitor's son.",
     'a4.jpg':
-      "When Air Force Space Command receives a signal from an alien satellite in Earth's orbit, a government conspiracy is uncovered.",
+      "7/10 When Air Force Space Command receives a signal from an alien satellite in Earth's orbit, a government conspiracy is uncovered.",
   },
 };
 
